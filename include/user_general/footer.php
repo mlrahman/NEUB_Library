@@ -5,7 +5,7 @@
 				<div class="w3-row">
 					<p class="w3-hide-medium w3-hide-large"> &nbsp </p>
 					<div class="w3-third w3-container w3-mobile w3-left-align">
-						<p style="margin:0px 15px;"><b>FIND US ON MAP</b></p>
+						<p style="margin:0px 15px;"><b>GET IN TOUCH</b></p>
 						<p style="margin:0px 15px;width:50px;" class="w3-bottombar w3-border-teal"> </p>
 						<table class="w3-table " style="width:100%;max-width:350px;">
 							<tr>
