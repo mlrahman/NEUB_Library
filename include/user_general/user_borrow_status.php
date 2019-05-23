@@ -1,8 +1,10 @@
 <div id="id01" class="w3-modal">
 	<div class=" w3-modal-content w3-round-large w3-animate-bottom w3-card-4 w3-leftbar w3-rightbar w3-bottombar w3-border-black">
 		<header class="w3-container w3-black w3-bottombar w3-border-teal"> 
-			<span onclick="document.getElementById('id01').style.display='none'" class="w3-button w3-display-topright w3-xlarge w3-hover-teal w3-round" style="padding:2px 12px;margin: 15px 10px;"><b>&times;</b></span>
-			<p class="w3-xxlarge" style="margin:5px 0px;">User Borrow Status</p>
+			<span onclick="document.getElementById('id01').style.display='none'" class="w3-button w3-display-topright w3-xlarge w3-hover-teal w3-round w3-hide-small" style="padding:2px 12px;margin: 15px 10px;"><b>&times;</b></span>
+			<span onclick="document.getElementById('id01').style.display='none'" class="w3-button w3-display-topright w3-medium w3-hover-teal w3-round w3-hide-large w3-hide-medium" style="padding:2px 12px;margin: 7px 5px;"><b>&times;</b></span>
+			<p class="w3-xxlarge w3-hide-small" style="margin:5px 0px;">User Borrow Status</p>
+			<p class="w3-large w3-hide-medium w3-hide-large" style="margin:5px 0px;">User Borrow Status</p>
 		</header>
 		<div class="w3-container w3-row w3-margin-top w3-margin-bottom" style="height:100%;max-height:400px;overflow-y:scroll;">
 			<div class="w3-half w3-container w3-margin-bottom">
