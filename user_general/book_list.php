@@ -4,7 +4,7 @@
 		
 		<?php include("../include/user_general/book_list_page_nav.php"); ?>
 		<!-- Page content -->
-		<div class="w3-content w3-white" style="max-width:2000px;margin-top:46px;min-height:320px;height:auto;">
+		<div class="w3-content w3-white" style="max-width:2000px;margin-top:80px;min-height:320px;height:auto;">
 			<div class="w3-row w3-container">
 				<div class="w3-third w3-container w3-padding-small" style="margin:0px;padding:0px;">
 					<p style="margin:0px;" class="w3-xxlarge"> Search For Books </p>

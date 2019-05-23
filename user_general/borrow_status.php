@@ -4,7 +4,7 @@
 		
 		<?php include("../include/user_general/borrow_status_page_nav.php"); ?>
 		<!-- Page content -->
-		<div class="w3-content w3-white" style="max-width:2000px;margin-top:46px;">
+		<div class="w3-content w3-white" style="max-width:2000px;margin-top:80px;">
 			<div class="w3-row w3-container w3-padding-large">
 				
 				
