@@ -2,7 +2,6 @@
 <div class="w3-top">
 	<div class="w3-bar w3-black w3-card">
 		<!-- Current page name in small nav -->
-		<a href="dashboard.php" class="w3-bar-item w3-button w3-padding-large w3-hover-teal w3-hide-large w3-hide-medium"><i class="fa fa-book"></i> Dashboard</a>
 			
 		<a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="menu_toggle()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
 		
@@ -26,12 +25,10 @@
 		</div>
 		
 		<div class="w3-right">
-			<a href="dashboard.php" class="w3-bar-item w3-button w3-padding-large w3-hover-teal w3-hide-small"><i class="fa fa-cubes"></i> Dashboard</a>
 			<a href="members.php" class="w3-bar-item w3-button w3-padding-large w3-hover-teal w3-hide-small"><i class="fa fa-users"></i> Members</a>
 			<a href="books.php" class="w3-bar-item w3-button w3-padding-large w3-hover-teal w3-hide-small"><i class="fa fa-book"></i> Books</a>
 			<a href="borrows.php" class="w3-bar-item w3-button w3-padding-large w3-hover-teal w3-hide-small"><i class="fa fa-edit"></i> Borrows</a>
 			<a href="notices.php" class="w3-bar-item w3-button w3-padding-large w3-hover-teal w3-hide-small"><i class="fa fa-newspaper-o"></i> Notices</a>
-			<a href="logout.php" class="w3-bar-item w3-button w3-padding-large w3-hide-small w3-hover-teal"><i class="fa fa-sign-out"></i> Log Out</a>
 		</div>
 	</div>
 </div>
@@ -42,5 +39,6 @@
 	<a href="books.php" class="w3-bar-item w3-button w3-padding-large w3-hover-teal" onclick="menu_toggle()"><i class="fa fa-book"></i> Books</a>
 	<a href="borrows.php" class="w3-bar-item w3-button w3-padding-large w3-hover-teal" onclick="menu_toggle()"><i class="fa fa-edit"></i> Borrows</a>
 	<a href="notices.php" class="w3-bar-item w3-button w3-padding-large w3-hover-teal" onclick="menu_toggle()"><i class="fa fa-newspaper-o"></i> Notices</a>
-	<a href="logout.php" class="w3-bar-item w3-button w3-padding-large w3-hover-teal" onclick="menu_toggle()"><i class="fa fa-sign-out"></i> Log Out</a>
- </div>
+</div>
+
+
