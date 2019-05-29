@@ -26,12 +26,6 @@ North East University Bangladesh
 		<script src="../js/main.js"></script> 
 	</head>
 	<body class="w3-black">
-		<div class="" style="position:fixed;left:16px;top:98px;z-index:1;">
-			<img src="../images/admin/img1.jpg" alt="Mir Lutfur Rahman" style="height:60px;width:60px;padding:2px;" class="w3-image w3-round w3-border w3-border-teal">
-			<div id="profile_menu" class="w3-bar-block w3-white w3-border w3-borderd w3-border-teal" style="padding:2px;">
-				<a href="#" class="w3-bar-item w3-button w3-teal w3-hover-teal"><i class="fa fa-sign-in"></i> Mir Lutfur Rahman</a>
-				<a href="#" class="w3-bar-item w3-button w3-black"><i class="fa fa-laptop"></i> Dashboard</a>
-				<a href="#" class="w3-bar-item w3-button w3-black"><i class="fa fa-user-circle-o"></i> My Profile</a>
-				<a href="#" class="w3-bar-item w3-button w3-black"><i class="fa fa-sign-out"></i> Log Out</a>
-			</div>
-		</div>
+		<?php
+			include("../include/user_admin/admin_menu.php");
+		?>
