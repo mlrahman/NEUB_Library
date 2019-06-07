@@ -1,7 +1,11 @@
 <!--section-1 large-screen -->
 <div class="w3-container w3-hide-small w3-hide-medium">
-	<div class="w3-container w3-right" style="width:82%;margin:30px 0px;">
+	<div class="w3-container w3-right" style="width:82%;">
 		<div class="w3-row">
+			<p style="margin:0px 15px;" class="w3-xxlarge w3-left-align"><i class="fa fa-laptop"></i> Dashboard </p>
+			<p style="margin:0px 0px 0px 15px;width:50px;" class="w3-bottombar w3-border-teal"> </p>
+			</br>		
+			
 			<!-- col-1 -->
 			<div class="w3-half w3-padding">
 				<div class="w3-container w3-hover-shadow w3-round-large w3-cursor w3-border w3-border-dark-gray w3-hover-border-teal w3-topbar w3-bottombar" style="padding:15px 30px;">
@@ -191,8 +195,11 @@
 
 <!-- section-1 medium-screen -->
 <div class="w3-container w3-hide-small w3-hide-large" style="padding:0px;">
-	<div class="w3-container w3-right" style="width:68%;margin:50px 0px;padding:0px;">
+	<div class="w3-container w3-right" style="width:68%;padding:0px;">
 		<div class="w3-row w3-padding-small">
+			<p style="margin:0px 12px;" class="w3-xxlarge w3-left-align"><i class="fa fa-laptop"></i> Dashboard </p>
+			<p style="margin:0px 0px 0px 12px;width:50px;" class="w3-bottombar w3-border-teal"> </p>
+			</br>
 			<!-- col-1 -->
 			<div class="w3-half w3-padding-small">
 				<div class="w3-container w3-hover-shadow w3-round-large w3-cursor w3-border w3-border-dark-gray w3-hover-border-teal w3-topbar w3-bottombar" style="padding:5px 5px;">
@@ -383,8 +390,11 @@
 
 <!-- section-1 small-screen -->
 <div class="w3-container w3-hide-medium w3-hide-large" style="padding:0px;">
-	<div class="w3-container" style="width:100%;margin:260px 0px 20px 0px;padding:0px;">
+	<div class="w3-container" style="width:100%;margin:210px 0px 20px 0px;padding:0px;">
 		<div class="w3-row w3-padding-small">
+			<p style="margin:0px 12px;" class="w3-xxlarge w3-left-align"><i class="fa fa-laptop"></i> Dashboard </p>
+			<p style="margin:0px 0px 0px 12px;width:50px;" class="w3-bottombar w3-border-teal"> </p>
+			</br>
 			<!-- col-1 -->
 			<div class="w3-half w3-padding-small">
 				<div class="w3-container w3-hover-shadow w3-round-large w3-cursor w3-border w3-border-dark-gray w3-hover-border-teal w3-topbar w3-bottombar" style="padding:5px 5px;">

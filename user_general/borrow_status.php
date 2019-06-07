@@ -5,9 +5,10 @@
 		<?php include("../include/user_general/borrow_status_page_nav.php"); ?>
 		<!-- Page content -->
 		<div class="w3-content w3-white" style="max-width:2000px;margin-top:90px;">
-			<div class="w3-row w3-container w3-padding-large">
-				
-				
+			<div class="w3-row w3-container">
+				<!-- top height -->
+				<div class="w3-container" style="height:50px;"></div>
+			
 				<div class=" w3-container w3-third">
 					<p style="margin:0px;" class="w3-xxlarge"> User Borrow Status </p>
 					<p style="margin:0px 0px 0px 0px;width:50px;" class="w3-bottombar w3-border-teal"> </p>
@@ -22,15 +23,16 @@
 				
 				
 				<div class="w3-container w3-twothird">
-					<p style="margin:0px;" class="w3-xxlarge"> Borrow Status </p>
+					<p style="margin:0px;" class="w3-xxlarge"><i class="fa fa-edit"></i> Borrow Status </p>
 					<p style="margin:0px 0px 0px 0px;width:50px;" class="w3-bottombar w3-border-teal"> </p>			
 					<?php include("../include/user_general/dept_borrow_status.php"); ?>
 				</div>
 				
 			</div>
 		
-		
-			<br>
+			<!-- clear -->
+			<div class="w3-container" style="height:50px;"></div>
+			
 		</div>
 
 <?php

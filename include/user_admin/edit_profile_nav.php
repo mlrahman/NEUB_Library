@@ -3,7 +3,7 @@
 	<div class="w3-bar w3-black w3-card">
 		<!-- Current page name in small nav -->
 		
-		<a href="dashboard.php" class="w3-bar-item w3-button w3-padding-large w3-hover-teal w3-hide-large w3-hide-medium"><i class="fa fa-laptop"></i> Dashboard</a>
+		<a href="edit_profile.php" class="w3-bar-item w3-button w3-padding-large w3-hover-teal w3-hide-large w3-hide-medium"><i class="fa fa-user-circle-o"></i> Edit Profile</a>
 		
 		<a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="menu_toggle()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
 		
